@@ -1,0 +1,18 @@
+table th{
+    border-bottom: 2px solid black;
+    margin :0 auto;
+}
+table{
+    color: azure;
+    text-align: center;
+}
+input{
+    margin-bottom: 30px
+}
+body{
+    background-image: url(./lol.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding:4px;
+}
